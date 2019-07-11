@@ -7,7 +7,8 @@
 .NOTES
 	File Name  : SharePointDistributedCache.psm1
 	Author     : Spencer Harbar (spence@harbar.net)
-	Requires   : PowerShell Version 4.0  
+    Requires   : PowerShell Version 4.0  
+    GIT
 #>
 
 
